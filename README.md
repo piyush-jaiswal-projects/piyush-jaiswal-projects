@@ -9,16 +9,15 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 - 🌱 I’m currently learning data structures, algorithms and advance web development technologies. 
 
 ## Skills and Experience
-⚛ REACT
-<br>
-🟢 NODE
-<br>
-🔹 EXPRESS
-<br>
-⭐ MONGODB
-<br>
-💻 JS / HTML / CSS
-<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/bootstrap.png">
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/react.png"> REACT
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/html.png">HTML
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/css.png">CSS
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/javascript.png">JAVASCRIPT
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/bootstrap.png">BOOTSTRAP
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/node.png">NODE
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/mongodb.png">MONGODB
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/express.png">EXPRESS
+<img src="https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/mui.png">MATERIAL UI
 
 ## Social Links
 
