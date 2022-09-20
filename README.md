@@ -1,7 +1,7 @@
 <!-- Put a banner over here -->
-<!-- <img src='https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png'> -->
+<img src='https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png'>
 
-<img src='https://github.com/piyush-jaiswal-projects/piyush-jaiswal-projects/blob/master/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header%20(1).png'>
+
 
 # Piyush Jaiswal 
 ![Profile views](https://gpvc.arturio.dev/piyush-jaiswal-projects)  
