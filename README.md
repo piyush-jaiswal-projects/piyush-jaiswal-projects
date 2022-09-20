@@ -1,7 +1,6 @@
 <!-- Put a banner over here -->
 
 # Piyush Jaiswal 
-<br>
 ![Profile views](https://gpvc.arturio.dev/piyush-jaiswal-projects)  
 
 I am Piyush from India, and I am a full stack web developer. I really enjoy developing websites and web apps, trying to put my foot in open source to create new technologies for the development of our society. I usually work on MERN stack(MongoDB, Express, React.js, Node.js).
