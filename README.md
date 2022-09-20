@@ -8,4 +8,4 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-jaiswal-projects&show_icons=true&theme=tokyonight)
