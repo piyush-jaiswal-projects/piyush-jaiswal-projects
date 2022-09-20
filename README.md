@@ -16,7 +16,7 @@ HTML | CSS | Javascript | REACT | BOOTSTRAP | MaterialUI | NODE | EXPRESS | MONG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush-jaiswal-projects&theme=tokyonight) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush-jaiswal-projects&theme=tokyonight&card_width=1000) 
 
 ## Social Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush-jaiswal-projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyushjaiswal1610/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PiyushJ17317768) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://piyushjaiswal.com/)  
