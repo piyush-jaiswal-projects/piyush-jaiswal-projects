@@ -14,7 +14,7 @@ HTML | CSS | Javascript | REACT | BOOTSTRAP | MaterialUI | NODE | EXPRESS | MONG
 ## Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-jaiswal-projects&show_icons=true&theme=tokyonight&card_width=800)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight&card_width=750)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush-jaiswal-projects&theme=tokyonight&card_width=1000) 
 
