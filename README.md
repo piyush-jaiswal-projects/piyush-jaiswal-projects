@@ -29,8 +29,6 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 
 ![Profile views](https://gpvc.arturio.dev/piyush-jaiswal-projects)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=piyush-jaiswal-projects)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
