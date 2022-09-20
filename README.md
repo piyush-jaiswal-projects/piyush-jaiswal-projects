@@ -18,6 +18,7 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 <br>
 💻 JS / HTML / CSS
 
+## Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-jaiswal-projects&show_icons=true&theme=tokyonight)
 
 ## Social Links
