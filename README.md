@@ -19,6 +19,10 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 <br>
 💻 JS / HTML / CSS
 
+## Social Links
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush-jaiswal-projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyushjaiswal1610/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_piyush.jaiswal_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PiyushJ17317768)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxWTY6UOc_3cDLpEb0xqvpg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://piyushjaiswal.com/)  
+
 ## Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-jaiswal-projects&show_icons=true&theme=tokyonight&card_width=20)
 
@@ -32,7 +36,4 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 <img style="height: auto; width: 40%;" class="img" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight)" /></div>
 </div>
 
-## Social Links
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush-jaiswal-projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyushjaiswal1610/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_piyush.jaiswal_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PiyushJ17317768)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxWTY6UOc_3cDLpEb0xqvpg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://piyushjaiswal.com/)  
 
