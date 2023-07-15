@@ -16,7 +16,6 @@ I am Piyush from India, and I am a full stack web developer. I really enjoy deve
 HTML | CSS | Javascript | REACT | BOOTSTRAP | MaterialUI | NODE | EXPRESS | MONGODB 
 
 ## Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-jaiswal-projects&show_icons=true&theme=tokyonight&card_width=800)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-jaiswal-projects&layout=compact&theme=tokyonight&card_width=750)](https://github.com/anuraghazra/github-readme-stats)
 
