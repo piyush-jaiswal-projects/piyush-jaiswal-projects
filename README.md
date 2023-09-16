@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning app development using React Native and advanced backend development.<br>🎯 Goals: To become one of the finest software developers out there.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning app development using React Native and advanced backend development.<br>🎯 Goals: To become one of the finest software developers out there.</p>
 
 ###
 
