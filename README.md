@@ -1,80 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Piyush Jaiswal</h1>
+<h2 align="center">A Recent Engineering Graduate and a Full Stack Developer.</h2>
 
 ###
 
-<p align="left">My name is Piyush Jaiswal and I'm a full-stack web developer, from India.</p>
+<h3>About me</h3>
+<p>
+  I am a full stack developer having experience of 3+ years in learning software development and building projects. I am based out of India. During the past few years, I spent my time learning the various frameworks while building various apps such as a blog app, ecommerce app, info tech website, fintech products and a bunch of other applications. I am also trying to understand the beauty of Algorithms and how they are an important part of modern day softwares.
+</p>
+<p>Being an Engineer, I love the idea of building products to solve real life problems, and I'm trying to be good at that.</p>
+
+
+- 🔭 I’m currently working on [APIs and UI of a Fintech Product](https://github.com/ipocircle/api)
+
+- 🌱 I’m currently learning **Advanced Backend Communications and React Native**
+
+- 📝 I write articles on [https://devpiyush.hashnode.dev/](https://devpiyush.hashnode.dev/)
+
+- 💬 Ask me about **react, next, node, express and software development in general.**
+
+- 📫 Reach me at **jaiswalpiyush1610@gmail.com**
+  
+- 🖥️ I take up freelance projects on [Upwork](https://www.upwork.com/freelancers/~01249cc65e1e42eadc?mp_source=share)
 
 ###
 
-<h2 align="left">About me</h2>
+<h3>Programming Languages</h3>
+<p>Javascript | Typescript | Java
+</p>
+
+<h3>Skills</h3>
+<p>Front End Development | Backend Development | API Development | Database Design | Scripting & Automation</p>
+
+<h3>Frameworks and Tech Stacks</h3>
+<p> React.js | Next.js | Tailwind CSS | Material UI | Jest | Redux | Node.js | Express.js | MongoDB | PostgreSQL | Docker
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning app development using React Native and advanced backend development.<br>🎯 Goals: To become one of the finest software developers out there.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h1 align="left">Social Media</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/piyushjaiswal1610/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/PiyushJ17317768" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="piyushjaiswal1610@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-jaiswal-projects&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=piyush-jaiswal-projects&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<h2 align="left"></h2>
+<p align="center">
+<a href="https://twitter.com/PiyushJ17317768" style="text-decoration:none;" target="_blank">Twitter</a> | 
+<a href="https://linkedin.com/in/piyushjaiswal1610" style="text-decoration:none;" target="_blank">Linkedin</a>
+</p>
