@@ -10,8 +10,6 @@
 <p>Being an Engineer, I love the idea of building products to solve real life problems, and I'm trying to be good at that.</p>
 
 
-- 🔭 I’m currently working on [APIs and UI of a Fintech Product](https://github.com/ipocircle/api)
-
 - 🌱 I’m currently learning **Advanced Backend Communications and React Native**
 
 - 📝 I write articles on [https://devpiyush.hashnode.dev/](https://devpiyush.hashnode.dev/)
