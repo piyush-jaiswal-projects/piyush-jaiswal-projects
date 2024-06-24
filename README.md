@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Jaiswal</h1>
-<h2 align="center">A Recent Engineering Graduate and a Full Stack Developer.</h2>
+<h2 align="center">A Recent Engineering Graduate and a Software Developer.</h2>
 
 ###
 
 <h3>About me</h3>
 <p>
-  I am a full stack developer having experience of 3+ years in learning software development and building projects. I am based out of India. During the past few years, I spent my time learning the various frameworks while building various apps such as a blog app, ecommerce app, info tech website, fintech products and a bunch of other applications. I am also trying to understand the beauty of Algorithms and how they are an important part of modern day softwares.
+  I am a full stack developer having experience of 2+ years in learning software development and building projects. I am based out of India. During the past few years, I spent my time learning the various frameworks while building various apps such as a blog app, ecommerce app, info tech website, fintech products and a bunch of other applications. I am also trying to understand the beauty of Algorithms and how they are an important part of modern day softwares.
 </p>
 <p>Being an Engineer, I love the idea of building products to solve real life problems, and I'm trying to be good at that.</p>
 
